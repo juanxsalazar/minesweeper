@@ -9,20 +9,22 @@ html {
 body {
   margin: 0;
   min-height: 100%;
+  text-align: center;
   display: flex;
   /* justify-content: center; */
+  background-color: #009474;
 }
 
 table {
+  border: black;
   border-style: solid;
-  background-color: ;
   text-align: center;
-  background-color: #006747;
+  background-color: #006847;
 }
 
 td {
 border-style: solid;
 padding: .5rem;
-background-color:#BCAD75;
+background-color:#D0C494;
 width: 1rem;
 height: 1rem;}

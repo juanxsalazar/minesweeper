@@ -17,7 +17,7 @@ class App extends Component {
 <button>Restart</button>
 </td>
 </tr>
-<td colSpan="8">Start new game</td>
+<td colSpan="8">Yeet</td>
 <tr>
   <td></td>
   <td></td>
@@ -98,7 +98,7 @@ class App extends Component {
   <td></td>
   <td></td>
 </tr>
-<td colSpan="8"> Mines Left</td>
+<td colSpan="8"> Mines Left:</td>
 </tbody>
 </table>
       </div>
