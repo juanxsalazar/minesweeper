@@ -1,6 +1,16 @@
 import React, { Component } from 'react';
 
 class App extends Component {
+// constructor(props) {
+//   super {props}
+
+//   this.state = {
+//     game: {
+
+//     }
+//   }
+// }
+
   render() {
     return (
       <div>
@@ -14,10 +24,10 @@ class App extends Component {
   <option value="1">Mid</option>
   <option value="2">Hard</option>
 </select>
-<button>Restart</button>
+<button>Start / Restart</button>
 </td>
 </tr>
-<td colSpan="8">Yeet</td>
+<td colSpan="8">Message to Player</td>
 <tr>
   <td></td>
   <td></td>
@@ -98,7 +108,7 @@ class App extends Component {
   <td></td>
   <td></td>
 </tr>
-<td colSpan="8"> Mines Left:</td>
+<td colSpan="8"> Mines Left: </td>
 </tbody>
 </table>
       </div>
